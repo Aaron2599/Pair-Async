@@ -1,0 +1,1 @@
+from .pairasync import sync
