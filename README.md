@@ -1,7 +1,7 @@
 # PairAsync | Seamless Async-Sync Integration for Python
 
-[![PyPI version](https://badge.fury.io/py/pairasync.svg)](https://badge.fury.io/py/pairasync)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI - Version](https://img.shields.io/pypi/v/pairasync)](https://pypi.org/project/pairasync/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
 **PairAsync** is a Python library that combines asynchronous (async) with synchronous (sync) code, enabling developers to execute async functions within sync environments. Ideal for enhancing Python applications from version 3.7 onwards, PairAsync simplifies the integration of asynchronous operations into traditional synchronous codebases.
